@@ -14,3 +14,13 @@
 p:nth-child(even){
   background-color:aqua;
 }
+.container{
+  display: flex;
+}
+
+li  {
+  display: grid;
+  padding-right: 10px;
+}
+
+
